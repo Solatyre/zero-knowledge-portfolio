@@ -13,5 +13,3 @@ npm run dev
 ```
 
 Set `SUPABASE_URL`, `SUPABASE_SERVICE_KEY` and optionally `NEXT_PUBLIC_APP_URL`. Secrets are stored in a `secrets` table with an `encrypted_text` column.
-
-> Note: the repo contains two copies of the app (`app/` and `src/app/`). Only one is used by Next.js, and the other should be removed.
